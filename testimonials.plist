@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>underweight</key>
+	<dict>
+		<key>testimonials</key>
+		<array>
+			<dict>
+				<key>name0</key>
+				<string>Priyanka</string>
+				<key>testCaption0</key>
+				<string>Gained 8 kgs in 3 month</string>
+				<key>testBody0</key>
+				<string>&quot;Great app to keep track of daily calories ! My nutritionist Nishita proved to me that weight gain can be healthy&quot;</string>
+			</dict>
+			<dict>
+				<key>name1</key>
+				<string>Kartik</string>
+				<key>testCaption1</key>
+				<string>Gained 5 kgs in 2 months</string>
+				<key>testBody1</key>
+				<string>&quot;My trainer Sahil and HealthifyMe helped me attain my goal. I am so pleased and thankful for their kind services and gesture&quot;</string>
+			</dict>
+		</array>
+		<key>options</key>
+		<array>
+			<dict>
+				<key>title0</key>
+				<string>Speak to a HealthifyMe Nutritionist</string>
+				<key>body0</key>
+				<string>Gain weight the right way wih personalized diet plans</string>
+			</dict>
+			<dict>
+				<key>title1</key>
+				<string>Take the first step</string>
+				<key>body1</key>
+				<string>Gain weight the right way with help of HealthifyMe nutritionists</string>
+			</dict>
+		</array>
+	</dict>
+	<key>normal</key>
+	<dict>
+		<key>options</key>
+		<array>
+			<dict>
+				<key>title0</key>
+				<string>HealthifyMe keeps you going</string>
+				<key>body0</key>
+				<string>Tracking calories and quick expert advice can help sustain your BMI</string>
+			</dict>
+			<dict>
+				<key>title1</key>
+				<string>Keep going with HealthifyMe</string>
+				<key>body1</key>
+				<string>Maintain your BMI with calorie tracking and personalized expert advice</string>
+			</dict>
+		</array>
+		<key>testimonials </key>
+		<array>
+			<dict>
+				<key>name0</key>
+				<string>Mandar</string>
+				<key>testCaption0</key>
+				<string>Maintains 61 kgs</string>
+				<key>testBody0</key>
+				<string>&quot;I love the weight projection feature! I usually track every day and HealthifyMe has helped me maintain my weight&quot;</string>
+			</dict>
+			<dict>
+				<key>name1</key>
+				<string>Prathiba</string>
+				<key>testCaption1</key>
+				<string>Balancing between 64 and 65 kgs</string>
+				<key>testBody1</key>
+				<string>
+&quot;HealthifyMe has helped me improve my diet and manage my weight better. The exercise and calorie tracking allows me to track progress, motivating me to meet my targets&quot;</string>
+			</dict>
+		</array>
+	</dict>
+	<key>overweight</key>
+	<dict>
+		<key>options</key>
+		<array>
+			<dict>
+				<key>title0</key>
+				<string>Take the first step
+Take the first step
+Take the first step</string>
+				<key>body0</key>
+				<string>Weightloss begins at HealthifyMe. Get the app to start yours today</string>
+			</dict>
+			<dict>
+				<key>title1</key>
+				<string>Take the first step</string>
+				<key>body1</key>
+				<string>HealthifyMe and you share the same goal, your weightloss!</string>
+			</dict>
+		</array>
+		<key>testimonials</key>
+		<array>
+			<dict>
+				<key>name0</key>
+				<string>Aditya</string>
+				<key>testCaption0</key>
+				<string>Lost 8 kgs in 2 months</string>
+				<key>testBody0</key>
+				<string>&quot;Skipping breakfast is a not an option now thanks to Zuha and her diet plan. I owe my weight loss to her and HealthifyMe. A big thank you&quot;</string>
+			</dict>
+			<dict>
+				<key>name1</key>
+				<string>Gurjit</string>
+				<key>testCaption1</key>
+				<string>Lost 9 kgs in 1.5 months</string>
+				<key>testBody1</key>
+				<string>“I have lost  9 kgs in 12 weeks with HealthifyMe and Roshini. Her exercise plan helped me tone my body and get my fat down which I failed to achieve on my own.”</string>
+			</dict>
+		</array>
+	</dict>
+	<key>obese</key>
+	<dict>
+		<key>options</key>
+		<array>
+			<dict>
+				<key>title0</key>
+				<string>Kickstart your transformation</string>
+				<key>body0</key>
+				<string>Track your calories and consult your trainer with HealthifyMe</string>
+			</dict>
+			<dict>
+				<key>title1</key>
+				<string>Take ownership of your health</string>
+				<key>body1</key>
+				<string> Weightloss begins at HealthifyMe. Get the app to start yours today</string>
+			</dict>
+		</array>
+		<key>testimonials</key>
+		<array>
+			<dict>
+				<key>name0</key>
+				<string>Chaitali</string>
+				<key>testCaption0</key>
+				<string>Lost 30 kgs in 10 months</string>
+				<key>testBody0</key>
+				<string>&quot;Thanks to HealthifyMe I’m successfully diabetes free. With 30 kgs lost in under a year, I see HealthifyMe and Roshini as life savers&quot;</string>
+			</dict>
+			<dict>
+				<key>name1</key>
+				<string>Samarth</string>
+				<key>testCaption1</key>
+				<string>Reduced 13 kgs in 4 months</string>
+				<key>body1</key>
+				<string>&quot;From 36 inches, my waist has shrunk to 32! I have Ritu and HealthifyMe team to thank for such a life changing experience. Thank you HealthifyMe&quot;</string>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
